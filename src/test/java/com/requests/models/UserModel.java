@@ -1,6 +1,6 @@
-package com.brivo.request_objects;
+package com.requests.models;
 
-public class User {
+public class UserModel {
     private int id;
     private String title;
     private String body;
